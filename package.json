@@ -1,0 +1,13 @@
+{
+  "name": "032522_8.virtual_assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --entry-file=c:/Users/user/Desktop/032522_8.Virtual_Assistant/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
